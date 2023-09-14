@@ -1,0 +1,17 @@
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+ipywidgets
+scipy
+statsmodels
+missingno
+squarify
+pandas_profiling
+catboost
+sklearn
+xgboost
+pyclustertend
+cufflinks
+wordcloud
